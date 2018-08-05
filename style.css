@@ -1,0 +1,17 @@
+body{
+	background-color: white;
+}
+
+#box{
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	position: fixed;
+	left: 0;
+	top: 0;
+	color: whitesmoke;
+	font-family: sans-serif;
+	text-align: center;
+	
+}
+
